@@ -7,7 +7,7 @@ I'm a Data Analyst turned ML practitioner, transitioning from fraud and transact
 - 🔭 **Currently working on:** Re-deploying my Fraud Detection ML model (XGBoost, 0.97 PR-AUC on 6.3M+ transactions) to AWS, with a planned remodel
 - 🌱 **Currently learning:** Deep Learning, NLP, LLMs & Generative AI
 - 💼 **Background:** 2 years in fraud analysis & transaction monitoring (PwC, TTEC) → now building end-to-end ML pipelines
-- 🎓 **Studying:** M.Sc. in Data Science & Analytics @ NSHM Knowledge Campus
+- 🎓 **Studying:** M.Sc. in Data Science & Analytics
 - 📫 **Reach me:** [Email](mailto:choudhuryrishita7@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rishitachoudhury-41358a290)
 - ⚡ **Fun fact:** Took a house price model from a hidden feature-engineering bug to a fully containerized, MLflow-tracked, Optuna-tuned XGBoost pipeline (RMSLE 0.1262, top 25% on Kaggle) — Docker, MLflow, FastAPI and all — deployed on Render + Streamlit Cloud, validated by testing two tuning strategies head-to-head on the real leaderboard
 
