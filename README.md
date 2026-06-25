@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rishita Choudhury
 
-**Aspiring Data Scientist | ML/AI Engineer | Data Engineer**
+**Data Scientist | ML/AI Engineer | Data Engineer**
 
 I'm a Data Analyst turned ML practitioner, transitioning from fraud and transaction-monitoring analytics (PwC, TTEC) into full-stack data science — from EDA and feature engineering to MLOps deployment.
 
