@@ -26,8 +26,6 @@ I'm a Data Analyst turned ML practitioner, transitioning from fraud and transact
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:choudhuryrishita7@gmail.com)
 
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishitachoudhury7&show_icons=true&theme=dark)
 
 
 ### 🔥 GitHub Streak
