@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Rishita Choudhury
 
-**Data Scientist | ML/AI Engineer | Data Engineer**
+**ML/AI Engineer | Data Scientist | Data Engineer**
 
-I'm a Data Analyst turned ML practitioner, transitioning from fraud and transaction-monitoring analytics (PwC, TTEC) into full-stack data science — from EDA and feature engineering to MLOps deployment.
+I'm a AI/ML Engineer, transitioning from fraud and transaction-monitoring analytics (PwC, TTEC) into full-stack AI/ML — from EDA and feature engineering to MLOps deployment.
 
 - 🔭 **Currently working on:** Re-deploying my Fraud Detection ML model (XGBoost, 0.97 PR-AUC on 6.3M+ transactions) to AWS, with a planned remodel
 - 🌱 **Currently learning:** Deep Learning, NLP, LLMs & Generative AI
