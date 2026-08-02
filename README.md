@@ -1,13 +1,11 @@
-# 👋 Hi, I'm Rishita Choudhury
+Hi, I'm Rishita 👋
 
-**AI/ML Engineer | Data Scientist | Data Engineer**
+AI/ML Engineer transitioning from fraud and transaction-monitoring analytics into full-stack AI/ML — from EDA and feature engineering to MLOps deployment.
 
-I'm a AI/ML Engineer, transitioning from fraud and transaction-monitoring analytics (PwC, TTEC) into full-stack AI/ML — from EDA and feature engineering to MLOps deployment.
-
-- 🔭 Currently working on: An AI Fraud Investigation & Banking Risk Compliance Assistant — extending my XGBoost fraud detection model (0.97 PR-AUC, 6.3M+ transactions) into a full production system with FastAPI, SHAP explainability, a Groq-powered LLM analyst (Llama 3.3 70B), and RAG via Supabase pgvector, all served through a Streamlit dashboard
-- 🌱 Currently learning: Applied LLM engineering — RAG pipelines, vector search, and prompt/agent design for real-world GenAI systems
-- 💼 **Background:** 2 years in fraud analysis & transaction monitoring (PwC, TTEC) → now building end-to-end ML pipelines
-- 🎓 **Studying:** Masters in Data Science & Analytics
+🔭 Currently working on: an AI Fraud Investigation & Banking Risk Compliance Assistant — extending my XGBoost fraud detection model (0.97 PR-AUC, 6.3M+ transactions) into a full production system with FastAPI, SHAP explainability, a Groq-powered LLM analyst (Llama 3.3 70B), and RAG via Supabase pgvector, all served through a Streamlit dashboard
+🌱 Currently learning: applied LLM engineering — RAG pipelines, vector search, and prompt/agent design for real-world GenAI systems
+💼 Background: 2 years in fraud analysis & transaction monitoring (PwC, TTEC) → now building end-to-end machine learning and GenAI systems
+🎓 Studying: Masters in Data Science & Analytics
 - 📫 **Reach me:** Email: choudhuryrishita7@gmail.com | linkedin: https://www.linkedin.com/in/rishita-choudhury-41358a290/?skipRedirect=true
 
 
