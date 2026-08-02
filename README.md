@@ -26,9 +26,6 @@ I'm a AI/ML Engineer, transitioning from fraud and transaction-monitoring analyt
 
 
 
-### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=rishitachoudhury7&theme=dark)
-
 ---
 
 [![](https://komarev.com/ghpvc/?username=rishitachoudhury7&color=0e75b6)](https://visitcount.itsvg.in)
