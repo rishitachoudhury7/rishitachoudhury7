@@ -1,6 +1,6 @@
 Hi, I'm Rishita 👋
 
-Data Scientist/ML Engineer transitioning from Data analytics into ML engineer — from EDA, feature engineering, ML algorithm, Statistical testing to MLOps deployment.
+Data Scientist transitioning from Data analytics into Data Scientist — from EDA, feature engineering, ML algorithm, Statistical testing to MLOps deployment.
 
 - 🔭 Currently working on: an AI Fraud Investigation & Banking Risk Compliance Assistant — extending my XGBoost fraud detection model (0.97 PR-AUC, 6.3M+ transactions) into a full production system with FastAPI, SHAP explainability, a Groq-powered LLM analyst (Llama 3.3 70B), and RAG via Supabase pgvector, all served through a Streamlit dashboard
 
